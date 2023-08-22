@@ -1,5 +1,4 @@
 from tkinter import *
-from math import *
 def calculate():
     input= int(entry.get())
     output = round(input/1.609, 2)
